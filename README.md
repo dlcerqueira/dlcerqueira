@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Eu sou o Diego Lima 👋
 
-<!--
-**dlcerqueira/dlcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou trabalhando com planejamento e analises de dados 
+- 🌱 Atualmento estou estudando formação Cientista de Dados na Data Science Academy.
+- ⛏ Procuro Atuar como Cientista de Dados 
+- 📊 Conhecimentos em Data Science/Business Analytics 
+- 🛠 Python , R , SQL 
+- 🛠 Pandas, Numpy , Sklearn , Pyspark
+- 📈 Vizualização de dados com : Seaborn , Matplotlib , Ggplot , Tableau , Power BI 
+- 🗃 Banco de dados SQL e NoSQL - My SQL , Mongo DB , PostgreSQL
+📊 Excel avançado ( Gráficos e Tabela dinâmicas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
