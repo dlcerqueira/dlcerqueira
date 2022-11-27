@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou trabalhando com planejamento e analises de dados 
-- 🌱 Atualmento estou estudando formação Cientista de Dados na Data Science Academy.
-- ⛏ Procuro Atuar como Cientista de Dados 
+- 🌱Conclui a formação Cientista de Dados na Data Science Academy.
+- ⛏ Procuro Atuar como Cientista de Dados/Analista de dados 
 - 📊 Conhecimentos em Data Science/Business Analytics 
 - 🛠 Python , R , SQL 
 - 🛠 Pandas, Numpy , Sklearn , Pyspark
