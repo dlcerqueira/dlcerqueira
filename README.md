@@ -1,4 +1,4 @@
-### Olá Eu sou o Diego Lima 👋
+### Hello I am Diego Lima 👋
 
 
 - 🔭 I've been working with planning and data.
